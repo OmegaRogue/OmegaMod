@@ -1,2 +1,2 @@
-# terratech-mod
+# OmegaMod
 OmegaMod for TerraTech
